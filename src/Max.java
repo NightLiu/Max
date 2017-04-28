@@ -39,8 +39,8 @@ public class Max {
         // TODO Auto-generated method stub
 
         Max max = new Max();
-        char[] u = {'a','b', 'c'};
-        max.max_unique_substring(u);
+        char[] v = {'b','b','b','b','b'};
+        max.max_unique_substring(v);
     }
 
 
