@@ -40,15 +40,7 @@ public class Max {
 
         Max max = new Max();
         char[] s = {'a','b','c','d','e','f','a','b','c','d','e','f'};
-        char[] t = {};
-        char[] u = {'a','b', 'c'};
-        char[] v = {'b','b','b','b','b'};
-        char[] w = {'c','a','b','c','b'};
         max.max_unique_substring(s);
-        max.max_unique_substring(t);
-        max.max_unique_substring(u);
-        max.max_unique_substring(v);
-        max.max_unique_substring(w);
     }
 
 
